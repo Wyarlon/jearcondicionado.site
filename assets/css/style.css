@@ -23,7 +23,7 @@ body {
 
 /* HEADER */
 .header {
-    background: linear-gradient(rgba(0,0,0,0.900), rgba(0,0,0,0.900)), url('../img/bg-header.jpg') center/cover no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.700), rgba(0,0,0,0.700)), url('../img/bg-header.jpg') center/cover no-repeat;
     color: white;
     text-align: center;
     padding: 40px 20px;
